@@ -28,9 +28,12 @@ content = """
 <title>My webserver</title>
 </head>
 <body>
-<h1>name: jegathish s</h1>
-<h2>reference no: 21005410</h2>
-<h3>email: jegathish162204@gmail.com</h3>
+<h1> TOP 5 PROGRAMMING LANGUAGES:r</h1>
+1.Python<br>
+2.Java<br>
+3.Javascript<br>
+4.C##<br>
+5.C++<br>
 </body>
 </html>
 """
@@ -47,6 +50,6 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 ## OUTPUT:
-![GitHub logo](web.jpg)
+![output](web.jpeg)
 ## RESULT:
 Web server is successfully created
